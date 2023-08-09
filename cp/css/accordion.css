@@ -1,0 +1,97 @@
+/* CSS Document */
+
+
+
+/*--------------------------------
+      Accordion
+--------------------------------*/
+
+	
+ul.content_accordion li:last-child .content{
+	border-bottom:none;
+	}
+
+
+.content_accordion h3.bar{
+	background-color: #dfe2e4;
+	display:block;
+	*display:inline-block;
+	margin:0;
+	line-height:30px;
+	cursor:pointer;
+	cursor:hand;
+	
+	
+	padding:0 20px;
+	
+	font-size: 13px;
+    font-weight: bold;
+    color:#333;
+	text-shadow:0px 1px 0px #fff;
+	
+	border-bottom: 1px solid #959BA2;
+	border-top: 1px solid #fff;
+	border-right: 1px solid #aaa;
+	border-left: 1px solid #aaa;
+	
+	filter:none !important;
+	
+}
+
+
+.content_accordion .content{
+	padding:10px 20px 10px;;
+	margin:0 1px;
+	border-top:none;
+	border-left:none;
+	border-right:none;
+	border-bottom:1px solid #aaa;
+	background-color: #eeeeee;
+	font-size: 13px;
+}
+
+
+
+ul.content_accordion li{
+	position:relative;
+	padding:0;
+	margin:0;
+	width:100%;
+	display:block;
+	border:none;
+	
+}
+
+ul.content_accordion li a.handle{
+	background: url(../images/grabber-trans.png) no-repeat;
+	
+	line-height:22px;
+	height:22px;
+	width:22px;
+	position: absolute;
+	right:6px;
+	top:6px;
+	z-index:10;
+	cursor:move;
+	zoom:1;
+}
+ul.content_accordion li:last-child h3.bar{
+	-webkit-border-radius: 0px;
+	-moz-border-radius: 0px;
+	border-radius: 0px;
+	
+	-webkit-border-bottom-right-radius: 3px;
+	-webkit-border-bottom-left-radius: 3px;
+	-moz-border-radius-bottomright: 3px;
+	-moz-border-radius-bottomleft: 3px;
+	border-bottom-right-radius: 3px;
+	border-bottom-left-radius: 3px;
+}
+ul.content_accordion{
+	list-style:none;
+	padding:0;
+	margin-bottom:-1px;
+	width:100%;
+	}
+
+/*----- End of Accordion -------*/

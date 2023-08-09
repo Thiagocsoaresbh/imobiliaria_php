@@ -1,0 +1,173 @@
+[08/14/2012 3:53 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=5.00, invoice=27, protection_eligibility=Ineligible, address_status=confirmed, payer_id=Z5PZCBSS7PUCJ, tax=0.00, address_street=1 Main St, payment_date=03:53:44 Aug 14, 2012 PDT, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=Hafijul, address_country_code=US, address_name=Hafijul Khan, notify_version=3.6, custom=, payer_status=unverified, address_country=United States, address_city=San Jose, quantity=1, verify_sign=An5ns1Kso7MWUdW4ErQKJJJ4qi4-AptlUm3g0HSwJVYP7U-83R0yhADy, payer_email=phpdev_1329688155_per@aol.com, txn_id=6L686202VT373963R, payment_type=instant, last_name=Khan, address_state=CA, receiver_email=hafijulkhan@gmail.com, pending_reason=unilateral, txn_type=web_accept, item_name=Apartment Rental System:Beatrice Stone Home, mc_currency=USD, item_number=, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=Apartment Rental System:Beatrice Stone Home, payment_gross=5.00, shipping=0.00, ipn_track_id=2a2ad0f9a22f2, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[08/14/2012 4:01 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=5.00, invoice=28, protection_eligibility=Ineligible, address_status=confirmed, payer_id=Z5PZCBSS7PUCJ, tax=0.00, address_street=1 Main St, payment_date=04:01:45 Aug 14, 2012 PDT, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=Hafijul, address_country_code=US, address_name=Hafijul Khan, notify_version=3.6, custom=, payer_status=unverified, address_country=United States, address_city=San Jose, quantity=1, verify_sign=AiMDbiMZyv5NBGrOcztNDcZtzE99AXhaHv9.q9GBIt0vRZl0iAYbK-ih, payer_email=phpdev_1329688155_per@aol.com, txn_id=8C601932CA503650P, payment_type=instant, last_name=Khan, address_state=CA, receiver_email=hafijulkhan@gmail.com, pending_reason=unilateral, txn_type=web_accept, item_name=Apartment Rental System:jantar Mantar, mc_currency=USD, item_number=, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=Apartment Rental System:jantar Mantar, payment_gross=5.00, shipping=0.00, ipn_track_id=e25e2cf03d6c8, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Tue, 14 Aug 2012 11:01:55 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=jg-o1r6P6RZ9Kfuq4iiYOwwi8e8_2cGvqjtDdej7VXmvYnZM--R6d8Tt0UN3I58_nNh9OsppH6yfXE4O0ekRk7eVpjEbfTwAMKoeGW527UjEv4CtFXY6VsPaDe627GlBo8fCAW%7cFhWTiMDOdtAvmZN97e_x3h3ZE3e_tfoxOomegeNmge8XVeg7NU6j4bt5VZmV0KlnnzUYS0%7cOq260olA2h7-W8cv2sqBZ5_xIRtMfe5v40zX0W2ntsKrlpG5BYMNhMOzqIKR86iwdIdtEG%7c1344942115; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 12-Aug-2022 11:01:55 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 09-Aug-2032 11:01:55 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.72.109.11.1344942115639427; path=/; expires=Thu, 07-Aug-42 11:01:55 GMT
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+8
+VERIFIED
+0
+
+
+
+[08/14/2012 4:11 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=5.00, invoice=30, protection_eligibility=Ineligible, address_status=confirmed, payer_id=Z5PZCBSS7PUCJ, tax=0.00, address_street=1 Main St, payment_date=04:11:13 Aug 14, 2012 PDT, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=Hafijul, address_country_code=US, address_name=Hafijul Khan, notify_version=3.6, custom=, payer_status=unverified, address_country=United States, address_city=San Jose, quantity=1, verify_sign=Axurct6Syp-5yq-eJ6PlpI5rRAA9A7lGguOyBd9wv.3t9Dge9XKURW5V, payer_email=phpdev_1329688155_per@aol.com, txn_id=1S966199BE665942W, payment_type=instant, last_name=Khan, address_state=CA, receiver_email=hafijulkhan@gmail.com, pending_reason=unilateral, txn_type=web_accept, item_name=Apartment Rental System:Beatrice sdf, mc_currency=USD, item_number=, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=Apartment Rental System:Beatrice sdf, payment_gross=5.00, shipping=0.00, ipn_track_id=abd5f1fa1448e, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Tue, 14 Aug 2012 11:11:19 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=GdHPteiCLtl_QzH65VAuzghxvInRS7vMlrRiL0DaMYIhyJZRTpXOruZ029k0H77A_0W-8BEscuKYDmmLQ78Nvw2L8sBGq2NUOKyved8z8tJ4bRXtXkpH8j8NsO-Cr6zgA-13RG%7cD-rC9vXVEb7u5gxkPnN9NoUFUy4jXhFBPHKWHWmymo3VHugAOrCo4pLUkPZwPuxfLFoG-m%7cgKz4bIVWql37xqloT32Mobqcry1irq0COj1EkgK4S905wdB5cSrdpgE2QagygNnBWEP4G0%7c1344942679; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 12-Aug-2022 11:11:19 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 09-Aug-2032 11:11:19 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.72.109.11.1344942679415842; path=/; expires=Thu, 07-Aug-42 11:11:19 GMT
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+8
+VERIFIED
+0
+
+
+
+[08/14/2012 5:03 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=2.00, invoice=2, protection_eligibility=Ineligible, address_status=confirmed, payer_id=Z5PZCBSS7PUCJ, tax=0.00, address_street=1 Main St, payment_date=05:03:19 Aug 14, 2012 PDT, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=Hafijul, address_country_code=US, address_name=Hafijul Khan, notify_version=3.6, custom=, payer_status=unverified, address_country=United States, address_city=San Jose, quantity=1, verify_sign=AFcWxV21C7fd0v3bYYYRCpSSRl31AVAoIbDyXVKwW7Tfj0VQ0D7Pi24S, payer_email=phpdev_1329688155_per@aol.com, txn_id=5ST313660T4867247, payment_type=instant, last_name=Khan, address_state=CA, receiver_email=hafijulkhan@gmail.com, pending_reason=unilateral, txn_type=web_accept, item_name=Apartment Rental System:Ridhi Sidhi Apartment, mc_currency=USD, item_number=, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=Apartment Rental System:Ridhi Sidhi Apartment, payment_gross=2.00, shipping=0.00, ipn_track_id=49e437df38d04, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Tue, 14 Aug 2012 12:03:27 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=iUymsQz7DE7B0BDzgsEHGZDZduMXEUjoZe-Bf8hPpZJ3T6zTPaMrkDZTZs86UQvf6jvdPJfe7oypA7aAC0n_3eiGIqbT7r8t9STDGtG_7nPPLsXsg8LnFe_eJcJGxq8-20fq5G%7cg_4pxfdtrNbOLocoLYehP8uM6zzhHlD9f8pQoo5oal0TQR6q7H57e94sP8ofNEw_arlA_m%7cenSlKeeLZTT1jN_aSeoWdojHvCmZ1KTB8SJWtpkeqaXsIuV0_zhIKByKBbMQS77dDPhRnm%7c1344945807; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 12-Aug-2022 12:03:27 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 09-Aug-2032 12:03:27 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.72.109.11.1344945807012233; path=/; expires=Thu, 07-Aug-42 12:03:27 GMT
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+8
+VERIFIED
+0
+
+
+
+[08/14/2012 5:06 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=2.00, invoice=3, protection_eligibility=Ineligible, address_status=confirmed, payer_id=Z5PZCBSS7PUCJ, tax=0.00, address_street=1 Main St, payment_date=05:06:49 Aug 14, 2012 PDT, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=Hafijul, address_country_code=US, address_name=Hafijul Khan, notify_version=3.6, custom=, payer_status=unverified, address_country=United States, address_city=San Jose, quantity=1, verify_sign=AqRqlT6TMtaCImT6GkkWvfnDTYsyA4-f6OCTm67pr7qOsx2WUfu3O34-, payer_email=phpdev_1329688155_per@aol.com, txn_id=4JK28566C9587771G, payment_type=instant, last_name=Khan, address_state=CA, receiver_email=hafijulkhan@gmail.com, pending_reason=unilateral, txn_type=web_accept, item_name=Apartment Rental System:Beatrice, mc_currency=USD, item_number=, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=Apartment Rental System:Beatrice, payment_gross=2.00, shipping=0.00, ipn_track_id=f71a543885cba, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Tue, 14 Aug 2012 12:06:56 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=KVqbhK4JwF3hmXnd22Mz9NgLy2pFWMiJsFK29EAVzg2h5G7yuyrLLYHwbr0mKxg5IFcvrr05sTVFQO0KRhgQD30PL4zEyopI589DFAXTG4NZXT_9_Gp-jPy0x9vvl01r9XNJCm%7caAu9NjKN7P9wpIPRZmPqokHLBlNFczMjYgWCW6Tw_-tqU4bdyJY9eVdMiJWvTJwld-ecLG%7cBJvLKxhW4NvEvBIWp3HI2EauGMNlZ4iU2-oaRBY26BQxJ_ERKwd49J1VdUDFio04PZBLfm%7c1344946016; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 12-Aug-2022 12:06:56 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 09-Aug-2032 12:06:56 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.72.109.11.1344946016414809; path=/; expires=Thu, 07-Aug-42 12:06:56 GMT
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+8
+VERIFIED
+0
+
+
+
+[08/14/2012 7:05 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=5.63, invoice=1344952910, protection_eligibility=Ineligible, address_status=confirmed, payer_id=Z5PZCBSS7PUCJ, tax=0.00, address_street=1 Main St, payment_date=07:05:08 Aug 14, 2012 PDT, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=Hafijul, address_country_code=US, address_name=Hafijul Khan, notify_version=3.6, custom=, payer_status=unverified, address_country=United States, address_city=San Jose, quantity=1, verify_sign=Ay3e6wNcc4fWP9KGc26u7bG9PoWWAkJuRNcO9ATh.dYB24B8oXI2sQ5h, payer_email=phpdev_1329688155_per@aol.com, txn_id=6JS23196X6888264C, payment_type=instant, last_name=Khan, address_state=CA, receiver_email=hafijulkhan@gmail.com, pending_reason=unilateral, txn_type=web_accept, item_name=Apartment Rental System:Beatrice, mc_currency=USD, item_number=, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=Apartment Rental System:Beatrice, payment_gross=5.63, shipping=0.00, ipn_track_id=1b527565a45ea, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Tue, 14 Aug 2012 14:05:14 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=i7VV7s73sMEQEXxuBMA48CqqRD5tZuMrxv3PfCo5HTVE4-rjlP1kQCYHWWx-s2XwmU-miwwTVgeVyCkdIeBnS3quVDT0xQbdo9ikYAVZvf_hdb7H2ChFgSmQ5hE_429zCLflmW%7cQOlH7zFIrqcOHTLnsSwe9iLFo_kjFqqq2RQn0xschmycbFuVupSxrBSyylDllREBCG96_0%7cRFS4U-AK7CXFnZDl0fkKoD41IFX6I8on--7FK_fab1kybW-l8rpPEt-fSSSLxYoQIULc7G%7c1344953114; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 12-Aug-2022 14:05:14 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 09-Aug-2032 14:05:14 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.72.109.11.1344953114394306; path=/; expires=Thu, 07-Aug-42 14:05:14 GMT
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+8
+VERIFIED
+0
+
+
+
+[08/14/2012 7:12 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=5.63, invoice=1344953491, protection_eligibility=Ineligible, address_status=confirmed, payer_id=Z5PZCBSS7PUCJ, tax=0.00, address_street=1 Main St, payment_date=07:12:37 Aug 14, 2012 PDT, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=Hafijul, address_country_code=US, address_name=Hafijul Khan, notify_version=3.6, custom=, payer_status=unverified, address_country=United States, address_city=San Jose, quantity=1, verify_sign=AqR-TaIWcyU9jZlB15KyWFanNQvxA-hH2JRP-.m3KQMnRutbUEFdSw1e, payer_email=phpdev_1329688155_per@aol.com, txn_id=9RT68814WD157844R, payment_type=instant, last_name=Khan, address_state=CA, receiver_email=hafijulkhan@gmail.com, pending_reason=unilateral, txn_type=web_accept, item_name=Apartment Rental System:Beatrice, mc_currency=USD, item_number=, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=Apartment Rental System:Beatrice, payment_gross=5.63, shipping=0.00, ipn_track_id=fd9288c4ea4a9, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Tue, 14 Aug 2012 14:12:45 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=gvG0jOkOL656W3qSr0C-e3eiaXLoHz3RFZmQuqPywp6Ck_x5BpFFMBakGFbCNgSFhUSXoU411tDByt9OX7BXjIkTR6Eet8xg4XgGSN6xfErjd6qt7GT7FmGCe8xCPzfPTFwSEG%7cssIUpD2RcoAwhQ7kihMyGA2dI-3Qip8pg9BlT9-r3BgGJS8EOYf3D8pDV7XA54XXc9caom%7c2kFir81xaVJsCuqtuDdyQRhToNz39wDC1wM9XKGIGGVeQGLRDgO2UfCkXny0EhIKQoGmFW%7c1344953565; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 12-Aug-2022 14:12:45 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 09-Aug-2032 14:12:45 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.72.109.11.1344953565371369; path=/; expires=Thu, 07-Aug-42 14:12:45 GMT
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+8
+VERIFIED
+0
+
+
+
+[08/14/2012 7:27 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=5.63, invoice=1344954371, protection_eligibility=Ineligible, address_status=confirmed, payer_id=Z5PZCBSS7PUCJ, tax=0.00, address_street=1 Main St, payment_date=07:27:45 Aug 14, 2012 PDT, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=Hafijul, address_country_code=US, address_name=Hafijul Khan, notify_version=3.6, custom=, payer_status=unverified, address_country=United States, address_city=San Jose, quantity=1, verify_sign=A-AWHmoJw-5iE3oQ07URK7OKTiLlAmKFp8OtgjeJm48Qqj07cgAb7ViP, payer_email=phpdev_1329688155_per@aol.com, txn_id=2K6886976D695064G, payment_type=instant, last_name=Khan, address_state=CA, receiver_email=hafijulkhan@gmail.com, pending_reason=unilateral, txn_type=web_accept, item_name=Apartment Rental System:Beatrice, mc_currency=USD, item_number=, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=Apartment Rental System:Beatrice, payment_gross=5.63, shipping=0.00, ipn_track_id=420e8438d299, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Tue, 14 Aug 2012 14:27:51 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=bVURnNzm6Mg14PkHaMs_3MFB0JtZNZTg8a7NTi1UBWVA-uA824psjrBdiCMd1Suf0H0UTmoeMwtyBU-_595_Y9vTNj4wjV6SYi81c6EVzk0hF0uwplP5AoCQBKpq1XsrbNudKm%7cqidoDytA4BiiTcmzwxuoYbqSWDtFqYRbKYhrH6gAxozPkmIWhP8T7NA7SP8AEteNzFQJzm%7crtAV4hro7QwEc60BBzHtXB5S-WjWUZuiYhNPgcbChketG_gTuz_xR4xK1apx57w5ZJGIIG%7c1344954472; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 12-Aug-2022 14:27:52 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 09-Aug-2032 14:27:52 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.72.109.11.1344954471793071; path=/; expires=Thu, 07-Aug-42 14:27:51 GMT
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+8
+VERIFIED
+0
+
+
+

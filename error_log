@@ -1,0 +1,96 @@
+[10-Sep-2013 16:07:26] PHP Parse error:  syntax error, unexpected $end in /home/sites197/public_html/CJ/includes/conf.class.php on line 252
+[11-Sep-2013 16:51:28] PHP Parse error:  syntax error, unexpected $end in /home/sites197/public_html/CJ/apartDetails.php on line 165
+[11-Sep-2013 17:03:29] PHP Parse error:  syntax error, unexpected $end in /home/sites197/public_html/CJ/includes/conf.class.php on line 438
+[17-Sep-2013 17:49:50] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 97
+[17-Sep-2013 17:49:50] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 99
+[17-Sep-2013 17:49:50] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 248
+[17-Sep-2013 17:50:06] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 97
+[17-Sep-2013 17:50:06] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 99
+[17-Sep-2013 17:50:06] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 248
+[17-Sep-2013 17:50:11] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 97
+[17-Sep-2013 17:50:11] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 99
+[17-Sep-2013 17:50:11] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 248
+[17-Sep-2013 18:38:44] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 97
+[17-Sep-2013 18:38:44] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 99
+[17-Sep-2013 18:38:44] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 248
+[17-Sep-2013 18:40:32] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 97
+[17-Sep-2013 18:40:32] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 99
+[17-Sep-2013 18:40:32] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 248
+[17-Sep-2013 18:41:35] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 97
+[17-Sep-2013 18:41:35] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 99
+[17-Sep-2013 18:41:35] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 248
+[17-Sep-2013 18:41:50] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 97
+[17-Sep-2013 18:41:50] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 99
+[17-Sep-2013 18:41:50] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 248
+[17-Sep-2013 18:41:55] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 97
+[17-Sep-2013 18:41:55] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 99
+[17-Sep-2013 18:41:55] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 248
+[17-Sep-2013 18:41:58] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 97
+[17-Sep-2013 18:41:58] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 99
+[17-Sep-2013 18:41:58] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 248
+[17-Sep-2013 18:42:11] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 97
+[17-Sep-2013 18:42:11] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 99
+[17-Sep-2013 18:42:11] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 248
+[17-Sep-2013 19:06:59] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 97
+[17-Sep-2013 19:06:59] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 99
+[17-Sep-2013 19:06:59] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 248
+[17-Sep-2013 19:07:55] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 97
+[17-Sep-2013 19:07:55] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 99
+[17-Sep-2013 19:07:55] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 248
+[17-Sep-2013 19:08:48] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 97
+[17-Sep-2013 19:08:48] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 99
+[17-Sep-2013 19:08:48] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 248
+[17-Sep-2013 19:13:15] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 97
+[17-Sep-2013 19:13:15] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 99
+[17-Sep-2013 19:13:15] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 248
+[17-Sep-2013 19:40:23] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 97
+[17-Sep-2013 19:40:23] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 99
+[17-Sep-2013 19:40:23] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 248
+[23-Sep-2013 09:22:58] PHP Parse error:  syntax error, unexpected $end in /home/sites197/public_html/CJ/all-apartment.php on line 289
+[23-Sep-2013 09:23:34] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 97
+[23-Sep-2013 09:23:34] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 99
+[23-Sep-2013 09:23:34] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 248
+[23-Sep-2013 09:23:59] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 97
+[23-Sep-2013 09:23:59] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 99
+[23-Sep-2013 09:23:59] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 248
+[23-Sep-2013 09:24:17] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 97
+[23-Sep-2013 09:24:17] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 99
+[23-Sep-2013 09:24:17] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 248
+[23-Sep-2013 09:24:49] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 97
+[23-Sep-2013 09:24:49] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 99
+[23-Sep-2013 09:24:49] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/sites197/public_html/CJ/all-apartment.php on line 248
+[23-Sep-2013 10:11:10] PHP Fatal error:  Cannot redeclare class bsiHotelCore in /home/sites197/public_html/CJ/includes/conf.class.php on line 3
+[26-Sep-2013 20:50:46] PHP Fatal error:  Cannot redeclare class bsiHotelCore in /home/sites197/public_html/CJ/includes/conf.class.php on line 3
+[06-Jun-2016 16:15:48 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[06-Jun-2016 16:15:48 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[06-Jun-2016 16:15:48 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[06-Jun-2016 16:15:48 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[06-Jun-2016 16:15:48 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[06-Jun-2016 16:15:48 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[06-Jun-2016 16:15:48 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[06-Jun-2016 16:15:48 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[06-Jun-2016 16:15:49 America/Sao_Paulo] PHP Warning:  date() [<a href='function.date'>function.date</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Sao_Paulo' for 'BRT/-3.0/no DST' instead in /home/sites197/public_html/CJ/footer.php on line 6

@@ -1,0 +1,14 @@
+<?php 
+session_start();
+if(isset($_SESSION['apmt_password'])){
+	unset($_SESSION['apmt_password']);
+	unset($_SESSION['apmt_usertype']);
+	unset($_SESSION['apmt_clientid']);
+	unset($_SESSION['apmt_firstname']);
+	unset($_SESSION['apmt_surname']); 
+	unset($_SESSION['apmt_email']); 
+}
+sleep(3);
+header("Location:index.php");
+exit;
+?> 
